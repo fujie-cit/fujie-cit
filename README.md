@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I am a Professor, Department of Advanced  Robotics, Chiba Institute of Technology
+- I am conducting research on speech dialogue systems.
+- My work involves developing software for speech recognition, facial expression recognition, and language processing.
+
 <!--
 **fujie-cit/fujie-cit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
